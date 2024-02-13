@@ -4,6 +4,7 @@
 
 ## Description
 
+Okay I know this looks very odd to have all my work in one commit but this code was from my instructor. He instead of doing t he mini project last week walked over the weeks challenge instead. So I imagine this will be worth nothing which is fine but figured I would say something if he did not. None of this code is mine all of it is from my instructor in the course. 
 
 ## Table of Contents
 * [User Story](#user-story)
