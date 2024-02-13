@@ -4,7 +4,7 @@
 
 ## Description
 
-Okay I know this looks very odd to have all my work in one commit but this code was from my instructor. He instead of doing the mini project last week walked over the weeks challenge instead. So I imagine this will be worth nothing which is fine but figured I would say something if he did not. None of this code is mine all of it is from my instructor in the course. 
+Okay I know this looks very odd to have all my work in one commit but this code was from my instructor. He instead of doing the mini project last week walked over the weeks challenge instead. So I imagine this will be worth nothing which is fine but figured I would say something if he did not. None of this code is mine all of it is from my instructor in the course. I also figured I probably would be okay not doing the readme since again this probably wont count as a assignment since he gave us the code. 
 
 ## Table of Contents
 * [User Story](#user-story)
